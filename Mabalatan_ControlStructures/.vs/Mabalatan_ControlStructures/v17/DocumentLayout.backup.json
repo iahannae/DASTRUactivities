@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACT-STUDENT\\Downloads\\Exercise 1\\Mabalatan_ControlStructures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E31CF028-4C46-48B7-872C-4959E86BB702}|Mabalatan_ControlStructures.csproj|c:\\users\\act-student\\downloads\\exercise 1\\mabalatan_controlstructures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E31CF028-4C46-48B7-872C-4959E86BB702}|Mabalatan_ControlStructures.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACT-STUDENT\\Downloads\\Exercise 1\\Mabalatan_ControlStructures\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ACT-STUDENT\\Downloads\\Exercise 1\\Mabalatan_ControlStructures\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T04:27:10.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
