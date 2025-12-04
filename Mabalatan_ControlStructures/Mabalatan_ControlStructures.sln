@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mabalatan_ControlStructures", "Mabalatan_ControlStructures.csproj", "{E31CF028-4C46-48B7-872C-4959E86BB702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31CF028-4C46-48B7-872C-4959E86BB702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31CF028-4C46-48B7-872C-4959E86BB702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31CF028-4C46-48B7-872C-4959E86BB702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31CF028-4C46-48B7-872C-4959E86BB702}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23990570-4075-486C-89BE-D33065326B15}
+	EndGlobalSection
+EndGlobal
